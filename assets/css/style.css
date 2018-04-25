@@ -5,6 +5,20 @@ body {
   padding-top: 54px;
 }
 
+.button {
+    background-color: #4682b4;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #3b6f9b;
+    }
+
 nav { background-color: #4682b4; }
 
 button:focus { outline: none; }
@@ -30,11 +44,6 @@ h2 { font-size: 3.5rem; }
   font-size: 1.35rem;
   font-weight: 600;
   text-transform: uppercase;
-}
-
-.firstcharacter {
-  color: rgba(206, 61, 46, .7);
-  font-weight: 900;
 }
 
 .social-icons a {
