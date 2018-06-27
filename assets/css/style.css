@@ -39,11 +39,22 @@ h1 {
 
 h2 { font-size: 3.5rem; }
 
+h4 { color: ##b3d1ff;
+  font-size: 1.0rem; 
+}
+
 .subheading {
   font-family: 'Saira Extra Condensed', serif;
   font-size: 1.35rem;
   font-weight: 600;
   text-transform: uppercase;
+}
+
+.smallsub {
+  color: #cccccc;
+  font-family: 'Open Sans', serif;
+  font-size: 0.7rem;
+  font-style: italic;
 }
 
 .social-icons a {
